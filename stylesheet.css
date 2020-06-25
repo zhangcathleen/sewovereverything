@@ -1,0 +1,17 @@
+.testing {
+  /* background-color: red; */
+  margin-top: 10%;
+  font-size: xxx-large;
+  color: white;
+}
+
+.menu {
+  margin-top: 10%;
+  font-size: x-large;
+  background: linear-gradient(red, orange, yellow, green, blue, purple);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+menu:hover {
+}

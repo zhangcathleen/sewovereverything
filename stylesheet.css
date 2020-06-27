@@ -1,6 +1,7 @@
+/* @media only screen and (min-width: 768px) { */
 .testing {
   /* background-color: red; */
-  margin-top: 10%;
+  margin-top: 80px;
   font-size: xxx-large;
   color: white;
 }
@@ -8,10 +9,19 @@
 .menu {
   margin-top: 10%;
   font-size: x-large;
+  text-align: center;
   background: linear-gradient(red, orange, yellow, green, blue, purple);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
-menu:hover {
+.photos {
+  margin-top: 70px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  width: 100%;
+  max-width: 700px;
+  height: auto;
 }
+/* } */

@@ -1,11 +1,15 @@
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 767px) {
   .testing {
-    /* background-color: blue; */
-    margin-top: 35%;
+    margin-top: 15%;
     font-size: xx-large;
   }
   .menu {
-    margin-top: 20%;
+    margin-top: 10%;
     font-size: large;
+  }
+  .photos {
+    margin-top: 10%;
+    width: 100%;
+    height: auto;
   }
 }

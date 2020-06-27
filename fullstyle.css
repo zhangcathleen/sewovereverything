@@ -4,6 +4,8 @@
     margin-top: 80px;
     font-size: xxx-large;
     color: white;
+    float: left;
+    margin-left: 60px;
   }
   .menu {
     margin-top: -350px;

@@ -1,6 +1,7 @@
 @media only screen and (min-width: 1400px) {
+  /* Index Page */
+
   .testing {
-    /* background-color: purple; */
     margin-top: 80px;
     font-size: xxx-large;
     color: white;
@@ -8,12 +9,12 @@
     margin-left: 60px;
   }
   .menu {
-    margin-top: -350px;
+    margin-top: -332px;
     margin-left: 1100px;
-    /* float: right; */
     font-size: large;
     text-align: left;
     position: absolute;
+    font-size: x-large;
   }
 
   #top {
